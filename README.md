@@ -1,0 +1,3 @@
+Thrawn's Legacy is a fan-made submod for **Star Wars: Empire at War — Forces of Corruption** and **Thrawn's Revenge**. Its goal is to bring ships from across Star Wars Legends, including designs associated with the *Legacy* era, into the strategic and tactical battles of Thrawn's Revenge.
+
+The heart of the project is fleet variety: more ships to discover, more ways to build a fleet, and more character for Imperial and New Republic forces. From small escorts to imposing capital ships, each addition is being adapted to work with Thrawn's Revenge's weapons, ship crews, production rules, fighter systems, and interface.
